@@ -1,0 +1,10 @@
+name: bart-calc
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - openrouteservice
+  - geopy
+  - folium
+  - ipywidgets
